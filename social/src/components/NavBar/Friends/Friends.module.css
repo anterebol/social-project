@@ -1,0 +1,11 @@
+.friend {
+  color: white;
+  padding: 10px;
+}
+.ava {
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  background-color: yellow;
+
+}
