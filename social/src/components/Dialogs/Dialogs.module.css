@@ -1,0 +1,39 @@
+.dialogs {
+  margin: 0 auto;
+  display: grid;
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  padding: 20px;
+}
+.dialogs_item {
+  
+}
+.dialog {
+
+}
+.dialog.active {
+  color: gold;
+}
+.messeges {
+
+}
+.messege {
+
+}
+.addMessege {
+
+}
+.newMessege {
+  width: 100px;
+  height: 50px;
+}
+.name {
+  display: flex;
+  padding: 5px;
+}
+.ava {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  background-color: teal;
+}
